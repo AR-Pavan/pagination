@@ -1,0 +1,10 @@
+#container {
+    border: 1px solid rgba(51, 49, 207, 0.11);
+    padding: 30px;
+    width: 700px
+}
+
+.btn {
+    align-items: justify;
+    margin: 1px;
+}
